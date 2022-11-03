@@ -1,0 +1,43 @@
+name: "Ion Riza"
+mail: "ionriza97@gmail.com"
+phone: "0765499299"
+experience: "4 years"
+skills: ["Python", "JS", "Databases", "Unix", "Docker", "Testing", "Networking"]
+work:
+  - company: "intive"
+    position: "Python Developer"
+    from: "10/2020"
+    to: "Present"
+    tasks:
+      - "Build and maintain applications to support network deployment and monitoring"
+      - "Writing scripts for small tasks using Python"
+      - "Building custom solutions for different teams using Vue.Js, Django/FastAPI, PostgreSQL, Docker"
+  - company: "Tellence"
+    position: "QA Automation Engineer"
+    from: "06/2020"
+    to: "10/2020"
+    tasks:
+      - "Testing a network cloud solution"
+      - "Improving existing pytest framework and deubgging failing tests"
+      - "Working with network protocols such as: BGP, IS-IS, OSPF, OSPF-TE"
+  - company: "Bitdefender"
+    position: "QA Automation Engineer"
+    from: "09/2019"
+    to: "06/2020"
+    tasks:
+      - "Testing a network sniffer and its deployment on a BOX"
+      - "Improving existing pytest framework and debugging failing test"
+      - "Working with Bamboo and taking care of the CI/CD infrastructure"
+  - company: "Bitdefender"
+    position: "QA Automation Engineer"
+    from: "09/2019"
+    to: "06/2020"
+    tasks:
+      - "Testing industrial network switches"
+      - "Test planning, writing and execution with Python"
+education:
+  - name: "Faculty of Electronics, Telecommunications and Information Technology"
+    subject: "Networks and Software"
+    degree: "Bachelor of Science"
+    from: "10/2016"
+    to: "06/2020"
