@@ -13,7 +13,7 @@ Now the application is up and running, you can GET one of the following routes:
 - /personal
 - /work
 
-Moreover, you can use the CLI commands. They are grouped under "data", so you need to run them as:
+Moreover, you can use the same three names from the routes for the CLI commands. They are grouped under "data", so you need to run them as:
 ```commandline
 flask --app main data [COMMAND]
 ```
